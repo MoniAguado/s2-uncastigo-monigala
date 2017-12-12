@@ -1,0 +1,23 @@
+https://fonts.googleapis.com/css?family=Gochi+Hand
+
+body {
+	height: 100vh;
+	color: rgb(242, 227, 196);
+}
+
+.frame {
+	color: brown;
+	height: 80%;
+	width: 80%;
+}
+
+.board {
+	color: darkgreen;
+	height: 75%;
+	width: 75%;
+}
+.text {
+	color: white;
+	height: 75%;
+	width: 75%;
+}
